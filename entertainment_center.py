@@ -8,11 +8,15 @@
 import generate_html
 import media
 
-the_perk_wallflower = media.Movie("The Perks of being a Wallflower",
-                     "An introvert freshman is taken under the wings"
+# If you'd like to change this to your own favorite movie
+# change the parameters accordingly to your details and
+# possibly change the name of the object as well.
+
+the_perk_wallflower = media.Movie("The Perks of being a Wallflower", # Movie Title
+                     "An introvert freshman is taken under the wings" # Movie Storyline separated into two lines
                      " of two seniors who welcome him to the real world.",
-                     "https://images-na.ssl-images-amazon.com/images/M/MV5BMzIxOTQyODU1OV5BMl5BanBnXkFtZTcwMDQ4Mjg4Nw@@._V1_SY1000_CR0,0,676,1000_AL_.jpg", # NOQA
-                     "https://www.youtube.com/watch?v=n5rh7O4IDc0")
+                     "https://images-na.ssl-images-amazon.com/images/M/MV5BMzIxOTQyODU1OV5BMl5BanBnXkFtZTcwMDQ4Mjg4Nw@@._V1_SY1000_CR0,0,676,1000_AL_.jpg", # NOQA # Box-Art or poster-image URL
+                     "https://www.youtube.com/watch?v=n5rh7O4IDc0") # YouTube Trailer link
 
 berlin_calling = media.Movie("Berlin Calling",
                              "A man tours clubs around the globe with his "
