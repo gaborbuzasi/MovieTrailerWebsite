@@ -19,13 +19,13 @@ main_page_head = '''
     <title>My favourite movies</title>
 
     <!-- Bootstrap 3 -->
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
     <!-- Main StyleSheet -->
     <link rel="stylesheet" href="main.css">
 
-    <script src="//code.jquery.com/jquery-1.10.1.min.js"></script>
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
 
     <script type="text/javascript" charset="utf-8">
         // Pause the video when the modal is closed
