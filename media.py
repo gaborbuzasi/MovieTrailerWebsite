@@ -7,8 +7,7 @@
 """ Module contains the Movie class."""
 class Movie():
     """ This class provides a way to store movie related information"""
-    VALID_RATINGS = ["G", "PG", "PG-13", "R"]
-
+    
     def __init__(self, movie_title, movie_storyline, movie_poster_image, movie_trailer_youtube):
         """ Constructor for the class Movie, that takes 4 parameters to instantiate a new object."""
         self.title = movie_title

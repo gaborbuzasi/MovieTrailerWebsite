@@ -4,7 +4,10 @@
 # # Version 1.0
 # # #
 
-""" Module instantiates 6 objects of the Movie class and adds them to a list, which will be passed to the fresh_tomatoes module's function."""
+""" Module instantiates 6 objects of the Movie class
+    and adds them to a list, which will be passed to the
+    fresh_tomatoes module's function."""
+
 import generate_html
 import media
 
