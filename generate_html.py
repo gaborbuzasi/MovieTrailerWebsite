@@ -4,7 +4,7 @@
 # # Version 1.0
 # # #
 
-""" Generates the HTML based 
+""" Generates the HTML based on the list of Movie objects passed in as an argument """
 import webbrowser
 import os
 import re
