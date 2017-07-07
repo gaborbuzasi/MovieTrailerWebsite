@@ -1,4 +1,4 @@
-# Movie Trailer project
+# Movie Trailer project - [Live Demo](https://gaborbuzasi.github.io/MovieTrailerWebsite/)
 Source code for a Movie Trailer website created while learning Python. This small project generates a Movie Trailer webpage based on several movie objects defined in your python class.
 
 This repository was forked from **adarsh0806's** [repository](https://github.com/adarsh0806/ud036_StarterCode)
