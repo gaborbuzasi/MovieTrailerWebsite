@@ -9,8 +9,4 @@ This projects requires **Python 2.7** to be installed on your machine.
 ## Instructions
 1. Clone or download this project onto your machine using the **Clone or Download button** on the repository page.
 2. Run the program by executing the **entertainment_center.py** file.
-<<<<<<< HEAD
-3. If you'd like to change the movies displayed, just open **media.py** file and 
-=======
 3. If you'd like to change the movies displayed, just open **entertainment_center.py** and follow the comments in the source code.
->>>>>>> origin/master
